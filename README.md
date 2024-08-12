@@ -72,3 +72,51 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # flashcard-toolkit
 >>>>>>> origin/main
+# Flashcard Learning Tool
+
+## Overview
+A simple flashcard learning tool built with React and Express, featuring a dark theme, flip animations, and CRUD operations with a MySQL database.
+
+## Features
+- Add, edit, delete, and view flashcards
+- Flashcards with flip animations
+- Navigation buttons for browsing flashcards
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/flashcard-tool.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd flashcard-tool
+    ```
+
+3. Install dependencies for the React app:
+    ```bash
+    cd flashcard-tool
+    npm install
+    ```
+
+4. Install dependencies for the backend:
+    ```bash
+    cd server
+    npm install
+    ```
+
+5. Start the server:
+    ```bash
+    cd server
+    node server.js
+    ```
+
+6. Start the React app:
+    ```bash
+    cd flashcard-tool
+    npm start
+    ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
